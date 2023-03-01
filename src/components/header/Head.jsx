@@ -14,9 +14,9 @@ export const Head = () => {
           <div className="right row RText">
             <label>Theme FAQ's</label>
             <label>Need Helps</label>
-            <span> </span>
+            <span></span>
             <label htmlFor="">EN</label>
-            <span>dhsg</span>
+            <span></span>
             <label htmlFor="">UK</label>
           </div>
         </div>
