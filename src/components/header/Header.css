@@ -138,8 +138,6 @@ header ul li a:hover {
     box-shadow: -1px 11px 24px -11px rgba(0, 0, 0, 0.2);
     transition: .5s;
 }
-
-
  
 @media (max-width : 768px) {
     header ul {

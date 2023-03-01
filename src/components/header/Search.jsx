@@ -28,8 +28,8 @@ export const Search = () => {
             <i className="fa fa-user icon-circle"></i>
             <div className="cart">
               <Link to="/cart">
-                <i className="fa fa-shopping-bag icon-circle">
-                <span>0</span></i>
+                <i className="fa fa-shopping-bag icon-circle"></i>
+                <span>0</span>
               </Link>
             </div>
           </div>
